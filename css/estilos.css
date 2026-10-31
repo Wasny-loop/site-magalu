@@ -1,3 +1,31 @@
+body {
+    margin: 0;
+}
+
+#topo {
+    background: #0E89FF;
+    padding: 10px;
+}
+
+#area-promocao {
+     background: #6E2BF2
+}
+
+#promocao {
+    width: 1000px;
+    margin: 0 auto;
+}
+
 a {
-    color: white;
+    margin: 8px;
+    border: 1px solid white;
+    padding: 6px;
+    background: lightskyblue;
+    color:rgb(240, 242, 243);
+    border-radius: 5px;
+}
+
+#corpo {
+    width: 1272px;
+    margin: 10px auto;
 }
